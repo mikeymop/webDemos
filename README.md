@@ -1,6 +1,15 @@
 # webDemos
 This repository contains simple demo sites designed while I play with different beginner web technologies.
 
+### How to try
+
+Open a new directory and `git clone` this repository
+
+```bash
+git clone https://github.com/mikeymop/webDemos.git
+```
+You can then open any of the `index.html`s by opening them with your browser.
+
 ## Bootstrap Basic
 
 Here I build a simple themed navbar template
